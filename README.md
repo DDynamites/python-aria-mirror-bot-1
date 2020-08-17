@@ -20,6 +20,10 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
+
+**NB: This may lead to the suspension of your heroku account so deploy at your own risk.**
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
 ## Installing requirements
 
 - Clone this repo:
