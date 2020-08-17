@@ -7,9 +7,9 @@
     "mirror",
     "googledrive"
   ],
-  "repository": "https://github.com/DDynamites/python-aria-mirror-bot-1",
-  "success_url": "https://github.com/DDynamites/python-aria-mirror-bot-1",
-  "website": "https://github.com/DDynamites/python-aria-mirror-bot-1t",  
+  "repository": "https://github.com/lzzy12/python-aria-mirror-bot",
+  "success_url": "https://github.com/lzzy12/python-aria-mirror-bot",
+  "website": "https://github.com/lzzy12/python-aria-mirror-bot",  
   "env": {
     "BOT_TOKEN": {
       "description": "The telegram bot token that you get from @BotFather",
